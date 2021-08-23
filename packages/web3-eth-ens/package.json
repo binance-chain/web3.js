@@ -1,5 +1,5 @@
 {
-    "name": "web3-eth-ens",
+    "name": "@binance-chain/web3-eth-ens",
     "version": "1.5.2",
     "description": "ENS support for web3.",
     "repository": "https://github.com/ethereum/web3.js/tree/1.x/packages/web3-eth-ens",
