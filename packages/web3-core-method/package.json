@@ -1,6 +1,6 @@
 {
     "name": "@binance-chain/web3-core-method",
-    "version": "1.5.2",
+    "version": "1.6.0",
     "description": "Creates the methods on the web3 modules. This is an internal package.",
     "repository": "https://github.com/ethereum/web3.js/tree/1.x/packages/web3-core-method",
     "license": "LGPL-3.0",
@@ -24,5 +24,9 @@
     "devDependencies": {
         "dtslint": "^3.4.1",
         "typescript": "^3.9.5"
-    }
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "gitHead": "c2f9a2d40b028d2c03c600328dfa61d6bdbd4c31"
 }
