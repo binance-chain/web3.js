@@ -1,5 +1,5 @@
 {
-    "name": "web3-eth-personal",
+    "name": "@binance-chain/web3-eth-personal",
     "version": "1.5.2",
     "description": "Web3 module to interact with the Ethereum blockchain accounts stored in the node.",
     "repository": "https://github.com/ethereum/web3.js/tree/1.x/packages/web3-eth-personal",

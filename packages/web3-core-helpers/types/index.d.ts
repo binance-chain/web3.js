@@ -40,6 +40,8 @@ export class formatters {
 
     static inputCallFormatter(txObject: any): any;
 
+    static outputBundleHashFormatter(bundleHash: any): any;
+
     static inputTransactionFormatter(txObject: any): any;
 
     static outputTransactionFormatter(receipt: any): any;
